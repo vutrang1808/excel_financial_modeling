@@ -35,25 +35,25 @@ All necessary data and assumptions are provided across three sheets:
 2.   **Scenarios**: Facilitates user input of sales growth and inflation rates across three scenarios and tests their statistical validity.
 
 Figure 1
-![pics/pic1.png](:/162cab5fea824a49a70e11371982c2d0)
+![Fig1](./pics/pic1.png)
 
 4.  **Linear Regression**: Analyzes the relationship between GDP growth and inflation through linear regression.
 
 Figure 2
-![pics/pic2.png](:/f21222ab024c41a6a8b23e92f6b26729)
+![Fig2](pics/pic2.png)
 
 6.  **Cash Flow**: Develops a cash flow model, evaluates IRR, and assesses its sensitivity to rate changes.
 
 Figure 3
-![pics/pic3.png](:/b8a75939a9324adda4459833208182fd)
+![Fig3](pics/pic3.png)
 
 Figure 4
-![pics/pic4.png](:/cca8560b40174cf19b30e75031a95f91)
+![Fig4](pics/pic4.png)
 
 8.  **Simulation**: Runs a Monte Carlo simulation to model potential outcomes and assess the IRR's variability.
 
 Figure 5
-![pics/pic5.png](:/1405e9edfb9440d68fdfdc904c4754fe)
+![Fig5](pics/pic5.png)
 
 ## Key Learning Outcomes:
  - Identify growth drivers from historical data using Excel.
