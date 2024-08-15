@@ -62,3 +62,5 @@ Figure 5
  - Develop detailed asset and debt schedule models in Excel.
  - Leverage advanced features of Excel for financial analysis.
  - Calculate profitability ratios using various profit metrics.
+
+The details of my solution are given in the attached Excel sheet. 
