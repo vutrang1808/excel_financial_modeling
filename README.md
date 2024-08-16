@@ -63,4 +63,4 @@ Figure 5
  - Leverage advanced features of Excel for financial analysis.
  - Calculate profitability ratios using various profit metrics.
 
-The details of my solution are given in the attached Excel sheet. 
+My solution details are given in the [attached Excel sheet](https://github.com/vutrang1808/excel_financial_modeling/blob/main/Project_Vu.xlsm). 
